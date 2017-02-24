@@ -25,10 +25,10 @@ This application can be used for managing gaming tournaments like card e-gaming 
 |   | Handle issues | Perform various maintenance like corrective maintenance for bug reports, perfective maintenance for feature requests and adaptive maintenance for environment  | Bug reports , system failure reports or improvement requests | New release of the software with maintenance performed.Product in use |
 |   | Develop end-user support material | Train customer service and provide help-line assistance | Product deployed and fully functional is customer environment | An update of some of the previous documents, as necessary, the plan being replaced by a &quot;post-mortem&quot; analysis of the performance of the project relative to its original and revised success criteria |
 
+### **3 Team**
 
-### **3 Team **
 
-#### **Team members **
+#### **Team members**
 
 - Phillip, 
 - Lingkai,
