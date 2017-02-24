@@ -9,7 +9,7 @@ This application can be used for managing gaming tournaments like card e-gaming 
 ### **2 Process Description**
 
 
-#### **Activities **
+#### **Activities**
 
 | **Phase** | **Activity** | **Description** | **Entry** | **Exit** |
 | :---: | :---: | :---: | :---: | :---: |
